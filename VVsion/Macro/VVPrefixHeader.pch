@@ -1,0 +1,15 @@
+//
+//  VVPrefixHeader.pch
+//  VVsion
+//
+//  Created by 赵祺伟 on 17/3/8.
+//  Copyright © 2017年 KM赵. All rights reserved.
+//
+
+#ifndef VVPrefixHeader_pch
+#define VVPrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* VVPrefixHeader_pch */
